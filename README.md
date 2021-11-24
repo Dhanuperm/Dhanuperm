@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanuperm
 - 👀 I’m interested in C++ Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhanuperm@gmail.com
 
